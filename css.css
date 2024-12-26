@@ -1,0 +1,113 @@
+*{
+    background-color: black;
+}
+#a{
+    width: 360px;
+    height: 500px;
+    background-color: #15172b;
+    /*margin-left: 450px;*/
+    /*margin-top: 42px;*/
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+    border-bottom-right-radius: 30px;
+    border-bottom-left-radius: 30px;
+
+
+}
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+#c{
+    color: aliceblue;
+    background-color: #15172b;
+    margin-top: 22px;
+    position: absolute;
+    font-size: 36px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-left: 20px;
+}
+#d{
+    color: aliceblue;
+    font-family: sans-serif;
+    position: absolute;
+    font-size: 22px;
+    background-color: #15172b;
+    margin-top: 74px;
+    margin-left: 20px;
+}
+#e1,#e2,#e3{
+    border: none;
+    background-color: #303245;
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+    border-bottom-right-radius: 30px;
+    border-bottom-left-radius: 30px;
+    font-size: 19px;
+    height: 60px;
+    width: 300px;
+    color: aliceblue;
+    padding-left: 20px;
+    
+}
+::placeholder{
+
+    
+    padding-left: 30px;
+}
+
+#e{
+    margin-top: 130px;
+    position: absolute;
+    margin-left: 20px;
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+    border-bottom-right-radius: 30px;
+    border-bottom-left-radius: 30px;
+    height: 60px;
+}
+#f{
+    margin-top: 220px;
+    position: absolute;
+    margin-left: 20px;
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+    border-bottom-right-radius: 30px;
+    border-bottom-left-radius: 30px;
+    height: 60px;
+}
+#g{
+    margin-top: 310px;
+    position: absolute;
+    margin-left: 20px;
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+    border-bottom-right-radius: 30px;
+    border-bottom-left-radius: 30px;
+    height: 60px;
+}
+#h{
+    margin-top: 400px;
+    position: absolute;
+    margin-left: 20px;
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+    border-bottom-right-radius: 30px;
+    border-bottom-left-radius: 30px;
+    height: 60px;
+
+}
+#e4{
+    border: none;
+    background-color: blue;
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+    border-bottom-right-radius: 30px;
+    border-bottom-left-radius: 30px;
+    font-size: 19px;
+    height: 60px;
+    width: 300px;
+    color: aliceblue;
+}
